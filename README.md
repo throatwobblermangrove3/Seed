@@ -12,11 +12,11 @@ systems that Poplog has run on.
 
 [![CircleCI](https://circleci.com/gh/GetPoplog/Seed/tree/main.svg?style=svg)](https://circleci.com/gh/GetPoplog/Seed/tree/main)
 
-## How to Install Poplog using this resource
+## How to Build and Install Poplog using this resource
 
-### Single-line install using curl (Debian-based distributions only)
+### Single-line build and install using curl (Debian-based distributions only)
 
-The simplest way to install Poplog on a debian-based distribution is to run the
+The simplest way to build and install Poplog on a debian-based distribution is to run the
 below command at the command-line. It will need you to have curl, sudo and apt
 already installed. The first thing it will do is ask for permission to install
 packages that it depends on.
